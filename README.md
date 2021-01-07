@@ -1,3 +1,3 @@
 # data_analysys
 Dataset:
-https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+https://www.kaggle.com/yusufdede/lung-cancer-dataset
